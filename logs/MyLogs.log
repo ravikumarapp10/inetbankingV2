@@ -1,0 +1,470 @@
+[INFO ] 2023-11-24 18:07:11.346 [main] ebanking - URL is opened
+[INFO ] 2023-11-24 18:07:11.542 [main] ebanking - Entered username
+[INFO ] 2023-11-24 18:07:11.748 [main] ebanking - Entered password
+[INFO ] 2023-11-24 18:07:15.276 [main] ebanking - Button clicked
+[INFO ] 2023-11-24 18:07:15.287 [main] ebanking - Login test pass
+[INFO ] 2023-11-24 18:08:17.994 [main] ebanking - URL is opened
+[INFO ] 2023-11-24 18:08:18.144 [main] ebanking - Entered username
+[INFO ] 2023-11-24 18:08:18.262 [main] ebanking - Entered password
+[INFO ] 2023-11-24 18:08:20.755 [main] ebanking - Button clicked
+[INFO ] 2023-11-24 18:08:20.768 [main] ebanking - Login test pass
+[INFO ] 2023-11-24 18:12:18.875 [main] ebanking - URL is opened
+[INFO ] 2023-11-24 18:12:19.022 [main] ebanking - Entered username
+[INFO ] 2023-11-24 18:12:19.138 [main] ebanking - Entered password
+[INFO ] 2023-11-24 18:12:21.042 [main] ebanking - Button clicked
+[INFO ] 2023-11-24 18:12:21.051 [main] ebanking - Login test pass
+[INFO ] 2023-11-24 18:13:31.564 [main] ebanking - URL is opened
+[INFO ] 2023-11-24 18:13:31.725 [main] ebanking - Entered username
+[INFO ] 2023-11-24 18:13:31.832 [main] ebanking - Entered password
+[INFO ] 2023-11-24 18:13:34.015 [main] ebanking - Button clicked
+[INFO ] 2023-11-24 18:13:34.029 [main] ebanking - Login test pass
+[INFO ] 2023-11-24 19:16:49.890 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-24 19:16:58.330 [main] ebanking - URL is opened
+[INFO ] 2023-11-24 19:16:58.846 [main] ebanking - Entered username
+[INFO ] 2023-11-24 19:16:59.081 [main] ebanking - Entered password
+[INFO ] 2023-11-24 19:17:00.519 [main] ebanking - Button clicked
+[INFO ] 2023-11-24 19:17:00.539 [main] ebanking - Login test pass
+[INFO ] 2023-11-24 19:18:08.967 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-24 19:18:18.324 [main] ebanking - URL is opened
+[INFO ] 2023-11-24 19:18:18.626 [main] ebanking - Entered username
+[INFO ] 2023-11-24 19:18:18.844 [main] ebanking - Entered password
+[INFO ] 2023-11-24 19:18:20.982 [main] ebanking - Button clicked
+[INFO ] 2023-11-24 19:18:21.000 [main] ebanking - Login test pass
+[INFO ] 2023-11-24 19:19:08.019 [main] ebanking - Firefox browser launch
+[INFO ] 2023-11-24 19:19:15.409 [main] ebanking - URL is opened
+[INFO ] 2023-11-24 19:19:15.657 [main] ebanking - Entered username
+[INFO ] 2023-11-24 19:19:15.724 [main] ebanking - Entered password
+[INFO ] 2023-11-24 19:19:21.013 [main] ebanking - Button clicked
+[INFO ] 2023-11-24 19:21:05.162 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-24 19:21:14.745 [main] ebanking - URL is opened
+[INFO ] 2023-11-24 19:21:14.991 [main] ebanking - Entered username
+[INFO ] 2023-11-24 19:21:15.169 [main] ebanking - Entered password
+[INFO ] 2023-11-24 19:21:16.767 [main] ebanking - Button clicked
+[INFO ] 2023-11-24 19:21:16.796 [main] ebanking - Login test pass
+[INFO ] 2023-11-24 19:22:03.956 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-24 19:22:13.015 [main] ebanking - URL is opened
+[INFO ] 2023-11-24 19:22:13.257 [main] ebanking - Entered username
+[INFO ] 2023-11-24 19:22:13.403 [main] ebanking - Entered password
+[INFO ] 2023-11-24 19:22:15.111 [main] ebanking - Button clicked
+[INFO ] 2023-11-24 19:22:15.130 [main] ebanking - Login test pass
+[INFO ] 2023-11-24 21:06:01.062 [main] ebanking - MSEdge browser launch
+[INFO ] 2023-11-24 21:06:21.859 [main] ebanking - URL is opened
+[INFO ] 2023-11-24 21:06:22.187 [main] ebanking - Entered username
+[INFO ] 2023-11-24 21:06:22.481 [main] ebanking - Entered password
+[INFO ] 2023-11-24 21:06:25.142 [main] ebanking - Button clicked
+[INFO ] 2023-11-24 21:06:25.184 [main] ebanking - Login test pass
+[INFO ] 2023-11-24 21:06:40.360 [main] ebanking - MSEdge browser launch
+[INFO ] 2023-11-24 21:06:52.538 [main] ebanking - URL is opened
+[INFO ] 2023-11-24 21:06:52.790 [main] ebanking - Entered username
+[INFO ] 2023-11-24 21:06:53.013 [main] ebanking - Entered password
+[INFO ] 2023-11-24 21:06:54.920 [main] ebanking - Button clicked
+[INFO ] 2023-11-24 21:06:54.946 [main] ebanking - Login test pass
+[INFO ] 2023-11-24 21:15:19.246 [main] ebanking - MSEdge browser launch
+[INFO ] 2023-11-24 21:15:28.846 [main] ebanking - URL is opened
+[INFO ] 2023-11-24 21:15:29.119 [main] ebanking - Entered username
+[INFO ] 2023-11-24 21:15:29.345 [main] ebanking - Entered password
+[INFO ] 2023-11-24 21:15:35.336 [main] ebanking - Button clicked
+[INFO ] 2023-11-24 21:15:35.382 [main] ebanking - Login test pass
+[INFO ] 2023-11-25 16:30:05.546 [main] ebanking - MSEdge browser launch
+[INFO ] 2023-11-25 16:30:13.995 [main] ebanking - URL is opened
+[INFO ] 2023-11-25 16:30:14.298 [main] ebanking - Entered username
+[INFO ] 2023-11-25 16:30:14.503 [main] ebanking - Entered password
+[INFO ] 2023-11-25 16:30:16.718 [main] ebanking - Button clicked
+[INFO ] 2023-11-25 16:30:16.732 [main] ebanking - Login test pass
+[INFO ] 2023-11-25 16:32:04.837 [main] ebanking - MSEdge browser launch
+[INFO ] 2023-11-25 16:32:10.815 [main] ebanking - URL is opened
+[INFO ] 2023-11-25 16:32:11.116 [main] ebanking - Entered username
+[INFO ] 2023-11-25 16:32:11.281 [main] ebanking - Entered password
+[INFO ] 2023-11-25 16:32:12.818 [main] ebanking - Button clicked
+[INFO ] 2023-11-25 16:32:12.836 [main] ebanking - Login test pass
+[INFO ] 2023-11-25 16:33:04.760 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-25 16:33:10.855 [main] ebanking - URL is opened
+[INFO ] 2023-11-25 16:33:11.153 [main] ebanking - Entered username
+[INFO ] 2023-11-25 16:33:11.353 [main] ebanking - Entered password
+[INFO ] 2023-11-25 16:33:12.796 [main] ebanking - Button clicked
+[INFO ] 2023-11-25 16:33:12.818 [main] ebanking - Login test pass
+[INFO ] 2023-11-28 15:58:59.550 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-28 15:59:20.150 [main] ebanking - URL is opened
+[INFO ] 2023-11-28 15:59:20.397 [main] ebanking - Entered username
+[INFO ] 2023-11-28 15:59:20.571 [main] ebanking - Entered password
+[INFO ] 2023-11-28 15:59:25.799 [main] ebanking - Button clicked
+[INFO ] 2023-11-28 16:16:12.797 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-28 16:16:45.892 [main] ebanking - URL is opened
+[INFO ] 2023-11-28 16:16:46.192 [main] ebanking - Entered username
+[INFO ] 2023-11-28 16:16:46.370 [main] ebanking - Entered password
+[INFO ] 2023-11-28 16:16:48.375 [main] ebanking - Button clicked
+[INFO ] 2023-11-28 16:25:16.633 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-28 16:25:23.085 [main] ebanking - URL is opened
+[INFO ] 2023-11-28 16:26:11.906 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-28 16:26:18.201 [main] ebanking - URL is opened
+[INFO ] 2023-11-28 16:27:00.458 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-28 16:27:08.297 [main] ebanking - URL is opened
+[INFO ] 2023-11-28 16:29:07.898 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-28 16:29:13.311 [main] ebanking - URL is opened
+[INFO ] 2023-11-28 16:34:45.450 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-28 16:34:51.304 [main] ebanking - URL is opened
+[INFO ] 2023-11-28 21:46:02.108 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-28 21:46:35.722 [main] ebanking - URL is opened
+[INFO ] 2023-11-28 21:46:35.982 [main] ebanking - Entered username
+[INFO ] 2023-11-28 21:46:36.143 [main] ebanking - Entered password
+[INFO ] 2023-11-28 21:46:37.591 [main] ebanking - Button clicked
+[INFO ] 2023-11-29 00:40:14.127 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 00:40:47.193 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 00:42:12.997 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 00:42:29.042 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 00:45:46.823 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 00:46:34.319 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 00:47:36.251 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 00:48:10.173 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 00:48:45.690 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 00:49:18.830 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 00:49:19.166 [main] ebanking - Entered username
+[INFO ] 2023-11-29 00:49:19.346 [main] ebanking - Entered password
+[INFO ] 2023-11-29 00:49:20.959 [main] ebanking - Button clicked
+[INFO ] 2023-11-29 00:49:23.022 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 00:49:57.751 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 00:52:23.843 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 00:52:58.137 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 00:52:58.359 [main] ebanking - Entered username
+[INFO ] 2023-11-29 00:52:58.516 [main] ebanking - Entered password
+[INFO ] 2023-11-29 00:53:02.317 [main] ebanking - Button clicked
+[INFO ] 2023-11-29 00:53:04.352 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 00:53:38.147 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 00:53:44.539 [main] ebanking - Enter username
+[INFO ] 2023-11-29 00:53:44.654 [main] ebanking - Enter password
+[INFO ] 2023-11-29 00:54:14.852 [main] ebanking - Enter username
+[INFO ] 2023-11-29 00:54:14.983 [main] ebanking - Enter password
+[INFO ] 2023-11-29 00:54:45.161 [main] ebanking - Enter username
+[INFO ] 2023-11-29 00:54:45.284 [main] ebanking - Enter password
+[INFO ] 2023-11-29 00:55:15.472 [main] ebanking - Enter username
+[INFO ] 2023-11-29 00:55:15.618 [main] ebanking - Enter password
+[INFO ] 2023-11-29 00:56:28.028 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 00:57:01.555 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 00:57:01.875 [main] ebanking - Entered username
+[INFO ] 2023-11-29 00:57:02.055 [main] ebanking - Entered password
+[INFO ] 2023-11-29 00:57:03.803 [main] ebanking - Button clicked
+[INFO ] 2023-11-29 00:57:05.701 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 00:57:27.658 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 00:57:29.702 [main] ebanking - Enter username
+[INFO ] 2023-11-29 00:57:29.845 [main] ebanking - Enter password
+[INFO ] 2023-11-29 00:57:32.087 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 00:57:32.114 [main] ebanking - Login passed
+[INFO ] 2023-11-29 00:57:33.025 [main] ebanking - Clicked on logout button
+[INFO ] 2023-11-29 00:57:33.039 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 00:57:33.985 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 00:57:34.116 [main] ebanking - Enter username
+[INFO ] 2023-11-29 00:57:34.230 [main] ebanking - Enter password
+[INFO ] 2023-11-29 00:57:34.763 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 00:57:34.783 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 00:57:35.773 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 00:57:35.919 [main] ebanking - Enter username
+[INFO ] 2023-11-29 00:57:36.041 [main] ebanking - Enter password
+[INFO ] 2023-11-29 00:57:36.555 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 00:57:36.572 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 00:57:37.606 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 00:57:37.755 [main] ebanking - Enter username
+[INFO ] 2023-11-29 00:57:37.872 [main] ebanking - Enter password
+[INFO ] 2023-11-29 00:57:38.434 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 00:57:38.645 [main] ebanking - Login passed
+[INFO ] 2023-11-29 00:57:39.108 [main] ebanking - Clicked on logout button
+[INFO ] 2023-11-29 00:57:39.127 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 00:57:40.284 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 00:57:40.424 [main] ebanking - Enter username
+[INFO ] 2023-11-29 00:57:40.557 [main] ebanking - Enter password
+[INFO ] 2023-11-29 00:57:42.279 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 00:57:42.298 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 00:57:43.664 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 00:58:06.066 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 00:58:41.595 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 00:58:41.871 [main] ebanking - Entered username
+[INFO ] 2023-11-29 00:58:42.006 [main] ebanking - Entered password
+[INFO ] 2023-11-29 00:58:43.417 [main] ebanking - Button clicked
+[INFO ] 2023-11-29 00:58:45.185 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 00:59:24.403 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 00:59:26.302 [main] ebanking - Enter username
+[INFO ] 2023-11-29 00:59:26.432 [main] ebanking - Enter password
+[INFO ] 2023-11-29 00:59:27.665 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 00:59:27.680 [main] ebanking - Login passed
+[INFO ] 2023-11-29 00:59:28.426 [main] ebanking - Clicked on logout button
+[INFO ] 2023-11-29 00:59:28.439 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 00:59:29.444 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 00:59:29.587 [main] ebanking - Enter username
+[INFO ] 2023-11-29 00:59:29.952 [main] ebanking - Enter password
+[INFO ] 2023-11-29 00:59:31.637 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 00:59:31.656 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 00:59:32.967 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 00:59:33.405 [main] ebanking - Enter username
+[INFO ] 2023-11-29 00:59:33.540 [main] ebanking - Enter password
+[INFO ] 2023-11-29 00:59:34.056 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 00:59:34.081 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 00:59:35.097 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 00:59:35.292 [main] ebanking - Enter username
+[INFO ] 2023-11-29 00:59:35.764 [main] ebanking - Enter password
+[INFO ] 2023-11-29 00:59:36.681 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 00:59:36.690 [main] ebanking - Login passed
+[INFO ] 2023-11-29 00:59:37.113 [main] ebanking - Clicked on logout button
+[INFO ] 2023-11-29 00:59:37.125 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 00:59:38.108 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 00:59:38.247 [main] ebanking - Enter username
+[INFO ] 2023-11-29 00:59:38.807 [main] ebanking - Enter password
+[INFO ] 2023-11-29 00:59:39.380 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 00:59:39.412 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 00:59:40.671 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 14:30:45.894 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 14:31:21.240 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 14:31:21.455 [main] ebanking - Entered username
+[INFO ] 2023-11-29 14:31:21.702 [main] ebanking - Entered password
+[INFO ] 2023-11-29 14:31:28.150 [main] ebanking - Button clicked
+[INFO ] 2023-11-29 14:31:30.576 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 14:31:46.386 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 14:32:04.246 [main] ebanking - Enter username
+[INFO ] 2023-11-29 14:32:04.418 [main] ebanking - Enter password
+[INFO ] 2023-11-29 14:32:06.106 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 14:32:06.131 [main] ebanking - Login passed
+[INFO ] 2023-11-29 14:32:06.951 [main] ebanking - Clicked on logout button
+[INFO ] 2023-11-29 14:32:06.985 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 14:32:08.002 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 14:32:08.114 [main] ebanking - Enter username
+[INFO ] 2023-11-29 14:32:08.224 [main] ebanking - Enter password
+[INFO ] 2023-11-29 14:32:08.707 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 14:32:08.725 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 14:32:09.810 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 14:32:10.315 [main] ebanking - Enter username
+[INFO ] 2023-11-29 14:32:10.445 [main] ebanking - Enter password
+[INFO ] 2023-11-29 14:32:10.916 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 14:32:10.944 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 14:32:11.965 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 14:32:12.139 [main] ebanking - Enter username
+[INFO ] 2023-11-29 14:32:12.463 [main] ebanking - Enter password
+[INFO ] 2023-11-29 14:32:13.342 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 14:32:13.349 [main] ebanking - Login passed
+[INFO ] 2023-11-29 14:32:13.771 [main] ebanking - Clicked on logout button
+[INFO ] 2023-11-29 14:32:13.788 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 14:32:14.837 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 14:32:15.233 [main] ebanking - Enter username
+[INFO ] 2023-11-29 14:32:15.378 [main] ebanking - Enter password
+[INFO ] 2023-11-29 14:32:15.868 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 14:32:15.893 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 14:32:17.132 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 14:32:42.900 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 14:32:58.891 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 14:33:16.667 [main] ebanking - Entered username
+[INFO ] 2023-11-29 14:33:16.799 [main] ebanking - Entered password
+[INFO ] 2023-11-29 14:33:18.162 [main] ebanking - Button clicked
+[INFO ] 2023-11-29 14:33:20.478 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 14:33:38.451 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 14:33:40.347 [main] ebanking - Enter username
+[INFO ] 2023-11-29 14:33:40.480 [main] ebanking - Enter password
+[INFO ] 2023-11-29 14:33:42.122 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 14:33:42.138 [main] ebanking - Login passed
+[INFO ] 2023-11-29 14:33:42.909 [main] ebanking - Clicked on logout button
+[INFO ] 2023-11-29 14:33:42.922 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 14:33:43.909 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 14:33:44.059 [main] ebanking - Enter username
+[INFO ] 2023-11-29 14:33:44.192 [main] ebanking - Enter password
+[INFO ] 2023-11-29 14:33:44.715 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 14:33:44.727 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 14:33:45.745 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 14:33:45.941 [main] ebanking - Enter username
+[INFO ] 2023-11-29 14:33:46.072 [main] ebanking - Enter password
+[INFO ] 2023-11-29 14:33:46.545 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 14:33:46.565 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 14:33:47.590 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 14:33:47.785 [main] ebanking - Enter username
+[INFO ] 2023-11-29 14:33:47.899 [main] ebanking - Enter password
+[INFO ] 2023-11-29 14:33:48.693 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 14:33:48.701 [main] ebanking - Login passed
+[INFO ] 2023-11-29 14:33:49.207 [main] ebanking - Clicked on logout button
+[INFO ] 2023-11-29 14:33:49.218 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 14:33:50.307 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 14:33:50.483 [main] ebanking - Enter username
+[INFO ] 2023-11-29 14:33:50.608 [main] ebanking - Enter password
+[INFO ] 2023-11-29 14:33:51.137 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 14:33:51.152 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 14:33:51.972 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 17:14:47.397 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 17:15:20.800 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 17:15:21.057 [main] ebanking - Entered username
+[INFO ] 2023-11-29 17:15:21.293 [main] ebanking - Entered password
+[INFO ] 2023-11-29 17:15:23.121 [main] ebanking - Button clicked
+[INFO ] 2023-11-29 17:15:25.884 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 17:15:58.155 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 21:09:56.966 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 21:10:30.018 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 21:10:32.040 [main] ebanking - Enter username
+[INFO ] 2023-11-29 21:10:32.190 [main] ebanking - Enter password
+[INFO ] 2023-11-29 21:10:34.220 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 21:10:34.243 [main] ebanking - Login passed
+[INFO ] 2023-11-29 21:10:35.015 [main] ebanking - Clicked on logout button
+[INFO ] 2023-11-29 21:10:35.057 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 21:10:36.237 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 21:10:37.146 [main] ebanking - Enter username
+[INFO ] 2023-11-29 21:10:37.273 [main] ebanking - Enter password
+[INFO ] 2023-11-29 21:10:37.776 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 21:10:37.798 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 21:10:38.874 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 21:10:39.380 [main] ebanking - Enter username
+[INFO ] 2023-11-29 21:10:39.496 [main] ebanking - Enter password
+[INFO ] 2023-11-29 21:10:39.965 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 21:10:39.989 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 21:10:41.110 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 21:10:41.230 [main] ebanking - Enter username
+[INFO ] 2023-11-29 21:10:41.647 [main] ebanking - Enter password
+[INFO ] 2023-11-29 21:10:43.093 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 21:10:43.099 [main] ebanking - Login passed
+[INFO ] 2023-11-29 21:10:43.513 [main] ebanking - Clicked on logout button
+[INFO ] 2023-11-29 21:10:43.526 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 21:10:44.515 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 21:10:44.696 [main] ebanking - Enter username
+[INFO ] 2023-11-29 21:10:45.221 [main] ebanking - Enter password
+[INFO ] 2023-11-29 21:10:46.928 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-29 21:10:46.949 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-29 21:10:48.208 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-29 21:10:50.388 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-29 21:11:24.076 [main] ebanking - URL is opened
+[INFO ] 2023-11-29 21:11:24.300 [main] ebanking - Entered username
+[INFO ] 2023-11-29 21:11:24.452 [main] ebanking - Entered password
+[INFO ] 2023-11-29 21:11:26.321 [main] ebanking - Button clicked
+[INFO ] 2023-11-30 19:59:05.341 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-30 19:59:21.371 [main] ebanking - URL is opened
+[INFO ] 2023-11-30 19:59:47.163 [main] ebanking - Entered username
+[INFO ] 2023-11-30 19:59:47.469 [main] ebanking - Entered password
+[INFO ] 2023-11-30 19:59:50.024 [main] ebanking - Button clicked
+[INFO ] 2023-11-30 19:59:51.992 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-30 20:00:30.834 [main] ebanking - URL is opened
+[INFO ] 2023-11-30 20:00:32.582 [main] ebanking - Enter username
+[INFO ] 2023-11-30 20:00:32.744 [main] ebanking - Enter password
+[INFO ] 2023-11-30 20:00:40.877 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-30 20:00:40.891 [main] ebanking - Login passed
+[INFO ] 2023-11-30 20:00:42.234 [main] ebanking - Clicked on logout button
+[INFO ] 2023-11-30 20:00:42.250 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-30 20:00:46.612 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-30 20:00:46.752 [main] ebanking - Enter username
+[INFO ] 2023-11-30 20:00:46.874 [main] ebanking - Enter password
+[INFO ] 2023-11-30 20:00:49.436 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-30 20:00:49.456 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-30 20:00:53.047 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-30 20:00:53.238 [main] ebanking - Enter username
+[INFO ] 2023-11-30 20:00:53.360 [main] ebanking - Enter password
+[INFO ] 2023-11-30 20:00:55.913 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-30 20:00:55.928 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-30 20:01:02.106 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-30 20:01:02.227 [main] ebanking - Enter username
+[INFO ] 2023-11-30 20:01:02.406 [main] ebanking - Enter password
+[INFO ] 2023-11-30 20:01:05.789 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-30 20:01:05.794 [main] ebanking - Login passed
+[INFO ] 2023-11-30 20:01:07.637 [main] ebanking - Clicked on logout button
+[INFO ] 2023-11-30 20:01:07.693 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-30 20:01:10.828 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-30 20:01:10.952 [main] ebanking - Enter username
+[INFO ] 2023-11-30 20:01:11.148 [main] ebanking - Enter password
+[INFO ] 2023-11-30 20:01:11.635 [main] ebanking - Clicked on submit button
+[INFO ] 2023-11-30 20:01:11.658 [main] ebanking - Switch to alert popup
+[INFO ] 2023-11-30 20:01:16.607 [main] ebanking - Switch to main screen
+[INFO ] 2023-11-30 20:02:39.752 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-30 20:03:16.695 [main] ebanking - URL is opened
+[INFO ] 2023-11-30 20:03:17.011 [main] ebanking - User name is provided
+[INFO ] 2023-11-30 20:03:17.169 [main] ebanking - Passsword is provided
+[INFO ] 2023-11-30 20:03:26.702 [main] ebanking - providing customer details....
+[INFO ] 2023-11-30 20:04:43.468 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-30 20:04:58.978 [main] ebanking - URL is opened
+[INFO ] 2023-11-30 20:05:59.126 [main] ebanking - User name is provided
+[INFO ] 2023-11-30 20:05:59.303 [main] ebanking - Passsword is provided
+[INFO ] 2023-11-30 20:06:21.305 [main] ebanking - providing customer details....
+[INFO ] 2023-11-30 20:09:46.079 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-30 20:10:42.635 [main] ebanking - URL is opened
+[INFO ] 2023-11-30 20:10:42.884 [main] ebanking - User name is provided
+[INFO ] 2023-11-30 20:10:43.030 [main] ebanking - Passsword is provided
+[INFO ] 2023-11-30 20:10:54.968 [main] ebanking - providing customer details....
+[INFO ] 2023-11-30 20:11:13.749 [main] ebanking - validation started....
+[INFO ] 2023-11-30 20:11:13.780 [main] ebanking - test case failed....
+[INFO ] 2023-11-30 20:12:09.942 [main] ebanking - Chrome browser launch
+[INFO ] 2023-11-30 20:12:25.571 [main] ebanking - URL is opened
+[INFO ] 2023-11-30 20:12:54.824 [main] ebanking - User name is provided
+[INFO ] 2023-11-30 20:12:55.061 [main] ebanking - Passsword is provided
+[INFO ] 2023-11-30 20:13:15.027 [main] ebanking - providing customer details....
+[INFO ] 2023-11-30 20:13:48.307 [main] ebanking - validation started....
+[INFO ] 2023-11-30 20:13:48.312 [main] ebanking - test case failed....
+[INFO ] 2023-12-04 14:09:30.981 [main] ebanking - Chrome browser launch
+[INFO ] 2023-12-04 14:09:40.407 [main] ebanking - URL is opened
+[INFO ] 2023-12-04 14:09:40.714 [main] ebanking - User name is provided
+[INFO ] 2023-12-04 14:09:40.870 [main] ebanking - Passsword is provided
+[INFO ] 2023-12-04 14:09:46.695 [main] ebanking - providing customer details....
+[INFO ] 2023-12-04 14:10:17.952 [main] ebanking - validation started....
+[INFO ] 2023-12-04 14:10:17.979 [main] ebanking - test case failed....
+[INFO ] 2023-12-04 22:36:34.122 [main] ebanking - Chrome browser launch
+[INFO ] 2023-12-04 22:36:42.648 [main] ebanking - URL is opened
+[INFO ] 2023-12-04 22:37:15.805 [main] ebanking - Entered username
+[INFO ] 2023-12-04 22:37:15.968 [main] ebanking - Entered password
+[INFO ] 2023-12-04 22:37:23.249 [main] ebanking - Button clicked
+[INFO ] 2023-12-04 22:37:25.088 [main] ebanking - Chrome browser launch
+[INFO ] 2023-12-04 22:37:49.744 [main] ebanking - URL is opened
+[INFO ] 2023-12-04 22:37:51.771 [main] ebanking - Enter username
+[INFO ] 2023-12-04 22:37:52.116 [main] ebanking - Enter password
+[INFO ] 2023-12-04 22:38:01.624 [main] ebanking - Clicked on submit button
+[INFO ] 2023-12-04 22:38:01.652 [main] ebanking - Login passed
+[INFO ] 2023-12-04 22:38:23.287 [main] ebanking - Clicked on logout button
+[INFO ] 2023-12-04 22:39:20.845 [main] ebanking - Enter username
+[INFO ] 2023-12-04 22:39:20.984 [main] ebanking - Enter password
+[INFO ] 2023-12-04 22:39:22.945 [main] ebanking - Clicked on submit button
+[INFO ] 2023-12-04 22:39:22.966 [main] ebanking - Switch to alert popup
+[INFO ] 2023-12-04 22:39:24.736 [main] ebanking - Switch to main screen
+[INFO ] 2023-12-04 22:40:48.694 [main] ebanking - Chrome browser launch
+[INFO ] 2023-12-04 22:41:39.920 [main] ebanking - URL is opened
+[INFO ] 2023-12-04 22:41:40.155 [main] ebanking - Entered username
+[INFO ] 2023-12-04 22:41:40.302 [main] ebanking - Entered password
+[INFO ] 2023-12-04 22:41:43.156 [main] ebanking - Button clicked
+[INFO ] 2023-12-04 22:43:20.813 [main] ebanking - Chrome browser launch
+[INFO ] 2023-12-04 22:43:22.968 [main] ebanking - URL is opened
+[INFO ] 2023-12-04 22:43:38.098 [main] ebanking - Entered username
+[INFO ] 2023-12-04 22:43:38.255 [main] ebanking - Entered password
+[INFO ] 2023-12-04 22:43:45.011 [main] ebanking - Button clicked
+[INFO ] 2023-12-04 22:43:45.032 [main] ebanking - Login test pass
+[INFO ] 2023-12-05 15:29:20.953 [main] ebanking - Chrome browser launch
+[INFO ] 2023-12-05 15:29:55.381 [main] ebanking - URL is opened
+[INFO ] 2023-12-05 15:29:55.564 [main] ebanking - Entered username
+[INFO ] 2023-12-05 15:29:55.679 [main] ebanking - Entered password
+[INFO ] 2023-12-05 15:29:57.852 [main] ebanking - Button clicked
+[INFO ] 2023-12-05 15:29:57.866 [main] ebanking - Login test pass
+[INFO ] 2023-12-05 15:43:02.371 [main] ebanking - Chrome browser launch
+[INFO ] 2023-12-05 15:43:36.271 [main] ebanking - URL is opened
+[INFO ] 2023-12-05 15:43:36.416 [main] ebanking - Entered username
+[INFO ] 2023-12-05 15:43:36.545 [main] ebanking - Entered password
+[INFO ] 2023-12-05 15:43:38.045 [main] ebanking - Button clicked
+[INFO ] 2023-12-05 15:43:38.050 [main] ebanking - Login test pass
+[INFO ] 2023-12-06 16:50:32.813 [main] ebanking - Chrome browser launch
+[INFO ] 2023-12-06 16:51:09.220 [main] ebanking - URL is opened
+[INFO ] 2023-12-06 16:51:09.463 [main] ebanking - Entered username
+[INFO ] 2023-12-06 16:51:09.600 [main] ebanking - Entered password
+[INFO ] 2023-12-06 16:51:15.467 [main] ebanking - Button clicked
+[INFO ] 2023-12-06 16:51:15.481 [main] ebanking - Login test pass
+[INFO ] 2023-12-06 16:51:32.788 [main] ebanking - Chrome browser launch
+[INFO ] 2023-12-06 16:51:48.725 [main] ebanking - URL is opened
+[INFO ] 2023-12-06 16:52:15.311 [main] ebanking - Entered username
+[INFO ] 2023-12-06 16:52:15.417 [main] ebanking - Entered password
+[INFO ] 2023-12-06 16:52:18.931 [main] ebanking - Button clicked
+[INFO ] 2023-12-06 16:52:18.950 [main] ebanking - Login test pass
+[INFO ] 2023-12-06 16:53:07.703 [main] ebanking - Chrome browser launch
+[INFO ] 2023-12-06 16:53:43.625 [main] ebanking - URL is opened
+[INFO ] 2023-12-06 16:53:43.836 [main] ebanking - Entered username
+[INFO ] 2023-12-06 16:53:43.947 [main] ebanking - Entered password
+[INFO ] 2023-12-06 16:53:48.794 [main] ebanking - Button clicked
+[INFO ] 2023-12-06 16:53:48.811 [main] ebanking - Login test pass
+[INFO ] 2023-12-06 17:23:05.750 [main] ebanking - Chrome browser launch
+[INFO ] 2023-12-06 17:23:51.560 [main] ebanking - URL is opened
+[INFO ] 2023-12-06 17:23:51.789 [main] ebanking - Entered username
+[INFO ] 2023-12-06 17:23:51.927 [main] ebanking - Entered password
+[INFO ] 2023-12-06 17:23:53.528 [main] ebanking - Button clicked
+[INFO ] 2023-12-06 17:23:53.547 [main] ebanking - Login test pass
+[INFO ] 2023-12-06 22:19:47.816 [main] ebanking - Chrome browser launch
+[INFO ] 2023-12-06 22:20:25.922 [main] ebanking - URL is opened
+[INFO ] 2023-12-06 22:20:26.143 [main] ebanking - Entered username
+[INFO ] 2023-12-06 22:20:26.282 [main] ebanking - Entered password
+[INFO ] 2023-12-06 22:20:28.910 [main] ebanking - Button clicked
+[INFO ] 2023-12-06 22:20:28.928 [main] ebanking - Login test pass
+[INFO ] 2023-12-07 18:20:34.462 [main] ebanking - Chrome browser launch
+[INFO ] 2023-12-07 18:21:10.288 [main] ebanking - URL is opened
+[INFO ] 2023-12-07 18:21:10.525 [main] ebanking - Entered username
+[INFO ] 2023-12-07 18:21:10.748 [main] ebanking - Entered password
+[INFO ] 2023-12-07 18:21:12.222 [main] ebanking - Button clicked
+[INFO ] 2023-12-07 18:21:12.240 [main] ebanking - Login test pass
